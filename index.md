@@ -27,6 +27,13 @@ Analyse Google Play Store Data to Gain Insights into Android Apps Market](/pdf/C
 
 ---
 
+### Capstone Project 4 
+
+[Stroke Prognosis](/pdf/Family Care-Stroke Prognosis(5).pdf)
+<img src="images/CapstoneProj4_image.PNG"/>
+
+---
+
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
