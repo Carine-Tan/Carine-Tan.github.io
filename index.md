@@ -4,7 +4,7 @@
 
 ### Capstone Project 1 
 
-Date: 08-December-2020
+Date: 08-December-2020 \n
 Capstone 1: Creating Interactive Dashboards and Data Storytelling with Excel
 
 [Google Play Store Apps: 
