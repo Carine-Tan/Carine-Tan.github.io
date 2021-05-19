@@ -18,6 +18,8 @@ Analyse Google Play Store Data to Gain Insights into Android Apps Market](/pdf/C
 
 Capstone 2: Data Analysis using SQL & Creating Interactive Dashboard and Visualization using Excel Dashboards
 
+The Capstone Project will enable students to apply and integrate what they have learnt and give them an opportunity to delve in greater depth, into one or more of the topics covered in the Excel and SQL courses. Mentors and Associate Trainers will be assigned to guide the cohort. The capstone project should be completed within 10 days.
+
 [Asia Covid-19 Statistics](/pdf/Capstone Project 2.pdf)
 <img src="images/Capstone Project2_image.PNG"/>
 
@@ -26,6 +28,8 @@ Capstone 2: Data Analysis using SQL & Creating Interactive Dashboard and Visuali
 ### Capstone Project 3 [12-March-2021]
 
 Capstone 3: PowerBI Interactive Dashboard
+
+The Capstone Project will enable participants to apply and integrate what they have learnt and give them an opportunity to delve in greater depth, into one or more of the topics covered in the ‘Analysing and Visualizing Data with PowerBI’ course. Mentors and Associate Trainers will be assigned to guide the cohort. The capstone project should be completed within 10 days.
 
 [United States Covid-19 Vaccine Adverse Events](/pdf/Capstone Project3.pdf)
 <img src="images/CapstoneProj3_ppt_image.PNG"/>
@@ -38,6 +42,8 @@ Capstone 3: PowerBI Interactive Dashboard
 ### Capstone Project 4 [07-May-2021]
 
 Capstone 4: Machine Learning using Python
+
+The Capstone Project will enable students to apply and integrate what they have learnt and give them an opportunity to delve in greater depth, into one or more of the topics covered in the Machine Learning using Python courses. Mentors and Associate Trainers will be assigned to guide the cohort. The capstone project should be completed within 5 days.
 
 [Stroke Prognosis](/pdf/Family Care-Stroke Prognosis(5).pdf)
 <img src="images/CapstoneProj4_image.PNG"/>
