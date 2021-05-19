@@ -6,7 +6,7 @@
 
 Capstone 1: Creating Interactive Dashboards and Data Storytelling with Excel
 
-The Capstone Project will enable students to apply and integrate what they have learnt and give them an opportunity to delve in greater depth, into one or more of the topics covered in the Interactive Dashboards and Data Storytelling with Excel. Mentors and Associate Trainers will be assigned to guide the cohort. The capstone project should be completed within 6 days.
+"The Capstone Project will enable students to apply and integrate what they have learnt and give them an opportunity to delve in greater depth, into one or more of the topics covered in the Interactive Dashboards and Data Storytelling with Excel. Mentors and Associate Trainers will be assigned to guide the cohort. The capstone project should be completed within 6 days."
 
 [Google Play Store Apps: 
 Analyse Google Play Store Data to Gain Insights into Android Apps Market](/pdf/Capstone Project 1.pdf)
@@ -18,7 +18,7 @@ Analyse Google Play Store Data to Gain Insights into Android Apps Market](/pdf/C
 
 Capstone 2: Data Analysis using SQL & Creating Interactive Dashboard and Visualization using Excel Dashboards
 
-The Capstone Project will enable students to apply and integrate what they have learnt and give them an opportunity to delve in greater depth, into one or more of the topics covered in the Excel and SQL courses. Mentors and Associate Trainers will be assigned to guide the cohort. The capstone project should be completed within 10 days.
+"The Capstone Project will enable students to apply and integrate what they have learnt and give them an opportunity to delve in greater depth, into one or more of the topics covered in the Excel and SQL courses. Mentors and Associate Trainers will be assigned to guide the cohort. The capstone project should be completed within 10 days."
 
 [Asia Covid-19 Statistics](/pdf/Capstone Project 2.pdf)
 <img src="images/Capstone Project2_image.PNG"/>
@@ -29,7 +29,7 @@ The Capstone Project will enable students to apply and integrate what they have 
 
 Capstone 3: PowerBI Interactive Dashboard
 
-The Capstone Project will enable participants to apply and integrate what they have learnt and give them an opportunity to delve in greater depth, into one or more of the topics covered in the ‘Analysing and Visualizing Data with PowerBI’ course. Mentors and Associate Trainers will be assigned to guide the cohort. The capstone project should be completed within 10 days.
+"The Capstone Project will enable participants to apply and integrate what they have learnt and give them an opportunity to delve in greater depth, into one or more of the topics covered in the ‘Analysing and Visualizing Data with PowerBI’ course. Mentors and Associate Trainers will be assigned to guide the cohort. The capstone project should be completed within 10 days."
 
 [United States Covid-19 Vaccine Adverse Events](/pdf/Capstone Project3.pdf)
 <img src="images/CapstoneProj3_ppt_image.PNG"/>
@@ -43,7 +43,7 @@ The Capstone Project will enable participants to apply and integrate what they h
 
 Capstone 4: Machine Learning using Python
 
-The Capstone Project will enable students to apply and integrate what they have learnt and give them an opportunity to delve in greater depth, into one or more of the topics covered in the Machine Learning using Python courses. Mentors and Associate Trainers will be assigned to guide the cohort. The capstone project should be completed within 5 days.
+"The Capstone Project will enable students to apply and integrate what they have learnt and give them an opportunity to delve in greater depth, into one or more of the topics covered in the Machine Learning using Python courses. Mentors and Associate Trainers will be assigned to guide the cohort. The capstone project should be completed within 5 days."
 
 [Stroke Prognosis](/pdf/Family Care-Stroke Prognosis(5).pdf)
 <img src="images/CapstoneProj4_image.PNG"/>
