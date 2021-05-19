@@ -9,12 +9,21 @@ Analyse Google Play Store Data to Gain Insights into Android Apps Market](/pdf/C
 <img src="images/Capstone_Proj1_image.PNG"/>
 
 ---
+
+### Capstone Project 2 
+
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### Capstone Project 3 
+
+[United States Covid-19 Vaccine Adverse Events](/pdf/Capstone Project3.pdf)
+<img src="images/CapstoneProj3_ppt_image.PNG"/>
+
+[Power BI Slides](/pdf/CapstoneProj3_Draft5.pdf)
+<img src="images/CapstoneProj3_image.PNG"/>
 
 ---
 
