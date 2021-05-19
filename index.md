@@ -5,7 +5,7 @@
 ### Capstone Project 1 
 
 [Google Play Store Apps: 
-Analyse Google Play Store Data to Gain Insights into Android Apps Market](/pdf/Capstone Proj1.pdf)
+Analyse Google Play Store Data to Gain Insights into Android Apps Market](/pdf/Capstone Project 1.pdf)
 <img src="images/Capstone_Proj1_image.PNG"/>
 
 ---
