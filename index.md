@@ -49,8 +49,10 @@ The Capstone Project will enable students to apply and integrate what they have 
 <img src="images/CapstoneProj4_image.PNG"/>
 
 [Model Selection (without Feature Engineering)](/Model_Selection_Stroke_Prognosis_(w_o_feature_engineering).ipynb)
+<img src="images/Colab_image_wo FE.png"/>
 
 [Model Selection (with Feature Engineering)](/Model_Selection_Stroke_Prognosis_(feature_engineering).ipynb)
+<img src="images/Colab_image_w FE.png"/>
 
 ---
 
