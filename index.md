@@ -43,6 +43,7 @@ Capstone 4: Machine Learning using Python
 [Model Selection (without Feature Engineering)](/Model_Selection_Stroke_Prognosis_(w_o_feature_engineering).ipynb)
 
 [Model Selection (with Feature Engineering)](/Model_Selection_Stroke_Prognosis_(feature_engineering).ipynb)
+
 ---
 
 ### Category Name 2
