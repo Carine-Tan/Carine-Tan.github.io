@@ -4,8 +4,8 @@
 
 ### Capstone Project 1 
 
-Date: 08-December-2020 \n
-Capstone 1: Creating Interactive Dashboards and Data Storytelling with Excel
+Date: 08-December-2020
+[Capstone 1: Creating Interactive Dashboards and Data Storytelling with Excel]
 
 [Google Play Store Apps: 
 Analyse Google Play Store Data to Gain Insights into Android Apps Market](/pdf/Capstone Project 1.pdf)
@@ -16,7 +16,7 @@ Analyse Google Play Store Data to Gain Insights into Android Apps Market](/pdf/C
 ### Capstone Project 2 
 
 Date: 22-January-2021
-Capstone 2: Data Analysis using SQL & Creating Interactive Dashboard and Visualization using Excel Dashboards
+[Capstone 2: Data Analysis using SQL & Creating Interactive Dashboard and Visualization using Excel Dashboards]
 
 [Asia Covid-19 Statistics](/pdf/Capstone Project 2.pdf)
 <img src="images/Capstone Project2_image.PNG"/>
