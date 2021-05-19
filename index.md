@@ -6,7 +6,7 @@
 
 Capstone 1: Creating Interactive Dashboards and Data Storytelling with Excel
 
-The Capstone Project will enable students to apply and integrate what they have learnt and give them an opportunity to delve in greater depth, into one or more of the topics covered in the Interactive Dashboards and Data Storytelling with Excel, Mentors and Associate Trainers will be assigned to guide the cohort. The capstone project should be completed within 6 days.
+The Capstone Project will enable students to apply and integrate what they have learnt and give them an opportunity to delve in greater depth, into one or more of the topics covered in the Interactive Dashboards and Data Storytelling with Excel. Mentors and Associate Trainers will be assigned to guide the cohort. The capstone project should be completed within 6 days.
 
 [Google Play Store Apps: 
 Analyse Google Play Store Data to Gain Insights into Android Apps Market](/pdf/Capstone Project 1.pdf)
