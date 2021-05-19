@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Capstone Project 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Google Play Store Apps](/pdf/Capstone Proj1.pdf)
+<img src="images/Capstone_Proj1_image.PNG"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
