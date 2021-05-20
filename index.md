@@ -58,7 +58,7 @@ Capstone 3: PowerBI Interactive Dashboard
 [PowerBI Dashboards](/pdf/CapstoneProj3_Draft5.pdf)
 <img src="images/CapstoneProj3_image.PNG"/>
 
-My Experience: This is probably my favourite of the 5 projects though through out the preparation even up till presentation, I had the constant nagging feeling that it is missing something - I've not figured out what it is lacking. Hopefully, someday I would.
+My Experience: This is probably my favourite of the 5 projects though through out the preparation even up till presentation, I had the constant nagging feeling that it is missing something - I've not figured out what it is. Hopefully, someday I would.
 
 ---
 
