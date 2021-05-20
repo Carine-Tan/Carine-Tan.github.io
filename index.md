@@ -83,7 +83,7 @@ Truth Be Told: Too much of pink can be overwhelming!
 
 ---
 
-CREDITS: Source of the Course Descriptions are not originated from me, they are extracted from course materials provided on Canvas Portal by NTUC LearningHub.  
+CREDITS: Source of the Course Descriptions are not originated from me, they are taken from course materials provided on Canvas Portal by NTUC LearningHub.  
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
