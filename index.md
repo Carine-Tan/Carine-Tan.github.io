@@ -34,7 +34,7 @@ Capstone 3: PowerBI Interactive Dashboard
 [United States Covid-19 Vaccine Adverse Events](/pdf/Capstone Project3.pdf)
 <img src="images/CapstoneProj3_ppt_image.PNG"/>
 
-[PowerBI Slides](/pdf/CapstoneProj3_Draft5.pdf)
+[PowerBI Dashboards](/pdf/CapstoneProj3_Draft5.pdf)
 <img src="images/CapstoneProj3_image.PNG"/>
 
 ---
