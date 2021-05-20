@@ -77,7 +77,7 @@ Capstone 4: Machine Learning using Python
 [Model Selection (with Feature Engineering)](/Model_Selection_Stroke_Prognosis_(feature_engineering).ipynb)
 <img src="images/Colab_image_w FE.png"/>
 
-My Experience: Played it very safe on the selection of my dataset (a manageable one) in view of the tight timeline and lack of adequacy in Alogorithms in Python. Also picked the most uncommonly used color theme in presentations, 'Pink!', and 'Family' as my theme for this project.
+My Experience: Played it very safe on the selection of my dataset (a manageable one) in view of the tight timeline and lack of adequacy in Algorithms in Python. Also picked the most uncommonly used color theme in presentations, 'Pink!', and 'Family' as my theme for this project.
 
 Interesting Fact: I picked Pink with the intention that it maybe too overwhelming for some people.
 
