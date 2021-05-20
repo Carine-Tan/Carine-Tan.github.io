@@ -13,6 +13,8 @@ Capstone 0.1: Basic of Data Science - Research Presentation
 [Credit Card Fraud: Walk Through A Case Study](/pdf/Month0.1_Presentation.pdf)
 <img src="images/Month0.1_ppt_image.png"/>
 
+My Experience: My Worse Attempt!
+
 ---
 
 ### Capstone Project 1 [08-December-2020]
@@ -25,6 +27,10 @@ Capstone 1: Creating Interactive Dashboards and Data Storytelling with Excel
 Analyse Google Play Store Data to Gain Insights into Android Apps Market](/pdf/Capstone Project 1.pdf)
 <img src="images/Capstone_Proj1_image.PNG"/>
 
+My Experience: Lesson learnt from Capstone 0.1, these presentation slides are kept simple, keypoints are in bullet forms and also did practice run before the actual presentation day.
+
+Interesting Fact: Slide 3 'Design/Development cycle', idea was inspired when watching NCC Zone X 2020 online.   
+
 ---
 
 ### Capstone Project 2 [22-January-2021]
@@ -35,6 +41,8 @@ Capstone 2: Data Analysis using SQL & Creating Interactive Dashboard and Visuali
 
 [Asia Covid-19 Statistics](/pdf/Capstone Project 2.pdf)
 <img src="images/Capstone Project2_image.PNG"/>
+
+My Experience: The ideas didn't come all at once when I started on this Project. In actual fact, I started without a storyline. Things were in bits and pieces, yet God creatively put all these bits together, making it flow logically with none of my efforts and time put in go to waste. God Is Good All The Time!    
 
 ---
 
@@ -49,6 +57,8 @@ Capstone 3: PowerBI Interactive Dashboard
 
 [PowerBI Dashboards](/pdf/CapstoneProj3_Draft5.pdf)
 <img src="images/CapstoneProj3_image.PNG"/>
+
+My Experience: This is probably my favourite of the 5 projects though through out the preparation even up till presentation, I had the constant nagging feeling that it is missing something - I've not figured out what it is lacking. Hopefully, someday I would.
 
 ---
 
@@ -67,15 +77,13 @@ Capstone 4: Machine Learning using Python
 [Model Selection (with Feature Engineering)](/Model_Selection_Stroke_Prognosis_(feature_engineering).ipynb)
 <img src="images/Colab_image_w FE.png"/>
 
+My Experience: Played it very safe on the selection of my dataset (a manageable one) in view of the tight timeline and lack of adequacy in Alogorithms in Python. Also picked the most uncommonly used color theme in presentations, 'Pink!', and 'Family' as my theme for this project.
+
+My Question: Wasn't Pink too overwhelming?
+
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+CREDITS: Source of the Course Descriptions are not originated from myself, they are extracted from course materials provided from the Canvas Portal of NTUC LearningHub.  
 
 ---
 
