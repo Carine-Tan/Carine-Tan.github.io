@@ -79,7 +79,7 @@ Capstone 4: Machine Learning using Python
 
 My Experience: Played it very safe on the selection of my dataset (a manageable one) in view of the tight timeline and lack of adequacy in Algorithms in Python. Also picked the most uncommonly used color theme in presentations, 'Pink!', and 'Family' as my theme for this project.
 
-Interesting Fact: Too much of pink can be overwhelming!
+Truth Be Told: Too much of pink can be overwhelming!
 
 ---
 
