@@ -27,9 +27,9 @@ Capstone 1: Creating Interactive Dashboards and Data Storytelling with Excel
 Analyse Google Play Store Data to Gain Insights into Android Apps Market](/pdf/Capstone Project 1.pdf)
 <img src="images/Capstone_Proj1_image.PNG"/>
 
-My Experience: Lesson learnt from Capstone 0.1, these presentation slides are kept simple, keypoints are in bullet forms and also did practice run before the actual presentation day.
+My Experience: Lesson learnt from Capstone 0.1, these presentation slides are kept simple, keypoints in bullet forms and also did practice run before the actual presentation day.
 
-Interesting Fact: Slide 3 'Design/Development cycle', idea was inspired when watching NCC Zone X 2020 online.   
+Interesting Fact: Slide 3 'Design/Development cycle', had this 'idea' when watching NCC Zone X 2020 online.   
 
 ---
 
