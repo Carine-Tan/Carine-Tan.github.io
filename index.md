@@ -6,8 +6,8 @@
 
 Capstone 0.1: Basic of Data Science - Research Presentation
 
-"Research on articles about topics covered during the class:  \n
-• Look for practical applications/use cases of data science   \n
+"Research on articles about topics covered during the class:  
+• Look for practical applications/use cases of data science   
 • Identify the different aspects of the basics of data science application to that selected articles"
 
 [Credit Card Fraud: Walk Through A Case Study](/pdf/Month0.1_Presentation.pdf)
