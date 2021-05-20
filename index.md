@@ -13,7 +13,7 @@ Capstone 0.1: Basic of Data Science - Research Presentation
 [Credit Card Fraud: Walk Through A Case Study](/pdf/Month0.1_Presentation.pdf)
 <img src="images/Month0.1_ppt_image.png"/>
 
-My Experience: My Worse Attempt!
+My Experience: My Worst Attempt!
 
 ---
 
@@ -27,9 +27,9 @@ Capstone 1: Creating Interactive Dashboards and Data Storytelling with Excel
 Analyse Google Play Store Data to Gain Insights into Android Apps Market](/pdf/Capstone Project 1.pdf)
 <img src="images/Capstone_Proj1_image.PNG"/>
 
-My Experience: Lesson learnt from Capstone 0.1, these presentation slides are kept simple, keypoints in bullet forms and also did practice run before the actual presentation day.
+My Experience: Lesson learnt from Capstone 0.1, these presentation slides are kept simple, keypoints in bullet forms and also did practice runs before the actual presentation day.
 
-Interesting Fact: Slide 3 'Design/Development cycle', had this 'idea' when watching NCC Zone X 2020 online.   
+Interesting Fact: Slide 3 the 'Design/Development cycle' was inspired when watching NCC Zone X 2020 online.   
 
 ---
 
@@ -43,6 +43,8 @@ Capstone 2: Data Analysis using SQL & Creating Interactive Dashboard and Visuali
 <img src="images/Capstone Project2_image.PNG"/>
 
 My Experience: The ideas didn't come all at once when I started on this Project. In actual fact, I started without a storyline. Things were in bits and pieces, yet God creatively put all these bits together, making it flow logically with none of my efforts and time put in go to waste. God Is Good All The Time!    
+
+Alias: 'The Most God's Ideas!' 
 
 ---
 
@@ -58,7 +60,7 @@ Capstone 3: PowerBI Interactive Dashboard
 [PowerBI Dashboards](/pdf/CapstoneProj3_Draft5.pdf)
 <img src="images/CapstoneProj3_image.PNG"/>
 
-My Experience: This is probably my favourite of the 5 projects though through out the preparation even up till presentation, I had the constant nagging feeling that it is missing something - I've not figured out what it is. Hopefully, someday I would.
+My Experience: This is my favourite of the 5 projects! Though throughout the preparation even up till presentation, I had the constant nagging feeling that it is missing something - I've not figured out what it is. Hopefully, someday I would!
 
 ---
 
@@ -79,7 +81,7 @@ Capstone 4: Machine Learning using Python
 
 My Experience: Played it very safe on the selection of my dataset (a manageable one) in view of the tight timeline and lack of adequacy in Algorithms in Python. Also picked the most uncommonly used color theme in presentations, 'Pink!', and 'Family' as my theme for this project.
 
-Truth Be Told: Too much of pink can be overwhelming!
+Truth Be Told: Too much of pink can be overwhelming! Not my best project!
 
 ---
 
