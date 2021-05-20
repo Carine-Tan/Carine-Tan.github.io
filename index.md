@@ -2,6 +2,19 @@
 
 ---
 
+### Capstone Project 0.1 [26-November-2020]
+
+Capstone 0.1: Basic of Data Science - Research Presentation
+
+"Research on articles about topics covered during the class:  \n
+• Look for practical applications/use cases of data science   \n
+• Identify the different aspects of the basics of data science application to that selected articles"
+
+[Credit Card Fraud: Walk Through A Case Study](/pdf/Month0.1_Presentation.pdf)
+<img src="images/Month0.1_ppt_image.png"/>
+
+---
+
 ### Capstone Project 1 [08-December-2020]
 
 Capstone 1: Creating Interactive Dashboards and Data Storytelling with Excel
