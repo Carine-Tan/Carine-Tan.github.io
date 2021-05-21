@@ -60,7 +60,8 @@ Capstone 3: PowerBI Interactive Dashboard
 [PowerBI Dashboards](/pdf/CapstoneProj3_Draft5.pdf)
 <img src="images/CapstoneProj3_image.PNG"/>
 
-My Experience: This is my favourite of the 5 projects! Though throughout the preparation even up till presentation, I had the constant nagging feeling that it is missing something - I've not figured out what it is. Hopefully, someday I would! # I've also asked God to patent the ideas in this project. # Originator
+My Experience: This is my favourite of the 5 projects! Though throughout the preparation even up till presentation, I had the constant nagging feeling that it is missing something - I've not figured out what it is. Hopefully, someday I would! 
+<!-- I've also asked God to patent the ideas in this project. #Originator -->
 
 ---
 
