@@ -1,4 +1,4 @@
-## Portfolio
+## Portfolio (Nov2020 - May2021)
 
 ---
 
@@ -61,7 +61,7 @@ Capstone 3: PowerBI Interactive Dashboard
 <img src="images/CapstoneProj3_image.PNG"/>
 
 My Experience: This is my favourite of the 5 projects! Though throughout the preparation even up till presentation, I had the constant nagging feeling that it is missing something - I've not figured out what it is. Hopefully, someday I would! 
-<!-- I've also asked God to patent the ideas in this project. #Originator -->
+<!-- My Audacity: I asked God to patent these ideas in this project so that no other will do it like me! -->
 
 ---
 
@@ -86,7 +86,7 @@ Truth Be Told: Too much of pink can be overwhelming! Not my best project!
 
 ---
 
-CREDITS: Source of the Course Descriptions are not originated from me, they are taken from course materials provided on Canvas Portal by NTUC LearningHub.  
+**BOLD**CREDITS: Source of the Course Descriptions are not originated from me, they are taken from course materials provided on Canvas Portal by NTUC LearningHub.  
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
