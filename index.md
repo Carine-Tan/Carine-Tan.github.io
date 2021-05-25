@@ -62,7 +62,7 @@ Capstone 3: PowerBI Interactive Dashboard
 
 My Experience: This is my favourite of the 5 projects! Though throughout the preparation even up till presentation, I had the constant nagging feeling that it is missing something - I've not figured out what it is. Hopefully, someday I would! 
 
-My Audacity: I asked God to 'patent' the ideas in this project; No other will wrangle the data like I did! O-O
+My Audacity: I asked God to 'patent' the ideas in this project; No other will wrangle the data like I did! O-O #Originator
 
 ---
 
