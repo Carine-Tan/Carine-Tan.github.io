@@ -46,6 +46,8 @@ My Experience: The ideas didn't come all at once when I started on this Project.
 
 Alias: 'The Most God's Ideas!'
 
+[Blueprint](/images/Capstone2_Blueprint.jpeg)
+
 ---
 
 ### Capstone Project 3 [12-March-2021]
@@ -63,6 +65,8 @@ Capstone 3: PowerBI Interactive Dashboard
 My Experience: This is my favourite of the 5 projects! Though throughout the preparation even up till presentation, I had the constant nagging feeling that it is missing something - I've not figured out what it is. Hopefully, someday I would! 
 
 My Audacity: I asked God to 'patent' the ideas in this project; No other will wrangle the data like I did! O-O #Originator
+
+[Blueprint](/images/Capstone3_Blueprint.jpeg)
 
 ---
 
@@ -84,6 +88,8 @@ Capstone 4: Machine Learning using Python
 My Experience: Played it very safe on the selection of my dataset (a manageable one) in view of the tight timeline and lack of adequacy in Algorithms in Python. Also picked the most uncommonly used color theme in presentations, 'Pink!', and 'Family' as my theme for this project.
 
 Truth Be Told: Too much of pink can be overwhelming! Not my best project!
+
+[Blueprint](/images/Capstone4_Blueprint.jpeg)
 
 ---
 
