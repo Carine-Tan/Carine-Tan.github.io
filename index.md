@@ -46,7 +46,7 @@ My Experience: The ideas didn't come all at once when I started on this Project.
 
 Alias: 'The Most God's Ideas!'
 
-[Blueprint](/images/Capstone2_Blueprint.jpeg)
+[Blueprint](/images/Capstone2_Blueprint.JPG)
 
 ---
 
