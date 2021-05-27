@@ -29,7 +29,7 @@ Analyse Google Play Store Data to Gain Insights into Android Apps Market](/pdf/C
 
 My Experience: Lesson learnt from Capstone 0.1, these presentation slides are kept simple, keypoints in bullet forms and also did practice runs before the actual presentation day.
 
-Interesting Facts: Slide 3 the 'Design/Development cycle' & the concept of 'Uniqueness' were inspired when watching NCC Zone X 2020 online.   
+Interesting Facts: Slide 3 the 'Design/Development cycle' & Slide 7 the concept of 'Uniqueness' were inspired when watching NCC Zone X 2020 online.   
 
 ---
 
