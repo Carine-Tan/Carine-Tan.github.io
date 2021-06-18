@@ -10,7 +10,7 @@ Capstone 0.1: Basic of Data Science - Research Presentation
 • Look for practical applications/use cases of data science   
 • Identify the different aspects of the basics of data science application to that selected articles"
 
-[Credit Card Fraud: Walk Through A Case Study](/pdf/Month0.1_Presentation.pdf)
+[Credit Card Fraud: Walkthrough A Case Study](/pdf/Month0.1_Presentation.pdf)
 <img src="images/Month0.1_ppt_image.png"/>
 
 My Experience: My Worst Attempt!
@@ -93,7 +93,7 @@ Truth Be Told: Too much of pink can be overwhelming! Not my best project!
 
 ---
 
-_CREDITS: Source of the Course Descriptions are not originated from me, they are taken from course materials provided on Canvas Portal by NTUC LearningHub._ 
+_DISCLAIMER: Source of the Capstones Descriptions are not originated from me, they are taken from course materials provided on Canvas Portal by NTUC LearningHub._ 
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
