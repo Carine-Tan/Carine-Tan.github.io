@@ -44,6 +44,8 @@ Capstone 2: Data Analysis using SQL & Creating Interactive Dashboard and Visuali
 
 My Experience: The ideas didn't come all at once when I started on this Project. In actual fact, I started without a storyline. Things were in bits and pieces, yet God creatively put all these bits together, making it flow logically with none of my efforts and time put in go to waste. **YESHUA Is Good All The Time!**
 
+Lament Before Presentation: Stop foretelling my presentation content, they are meant to be unique. Ugghh!  
+
 Alias: 'The Most God's Ideas!'
 
 [Blueprints](/images/Capstone2_Blueprint.JPG)
