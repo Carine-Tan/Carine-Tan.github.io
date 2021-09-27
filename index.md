@@ -66,6 +66,8 @@ My Experience: This is my favourite of the 5 projects! Though throughout the pre
 
 My Audacity: I asked God to 'patent' the ideas in this project; No other will wrangle the data like I did! O-O #Originator
 
+Amazed With: My Mentor! He knew my project was missing something. He always seem to 'prophesy' my hidden thoughts.  
+
 [Blueprint](/images/Capstone3_Blueprint.jpeg)
 
 ---
