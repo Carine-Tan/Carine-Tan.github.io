@@ -44,8 +44,6 @@ Capstone 2: Data Analysis using SQL & Creating Interactive Dashboard and Visuali
 
 My Experience: The ideas didn't come all at once when I started on this Project. In actual fact, I started without a storyline. Things were in bits and pieces, yet God creatively put all these bits together, making it flow logically with none of my efforts and time put in go to waste. **YESHUA Is Good All The Time!**
 
-Lament Before Presentation: Stop foretelling my presentation content, they are meant to be unique. Ugghh!  
-
 Alias: 'The Most God's Ideas!'
 
 [Blueprints](/images/Capstone2_Blueprint.JPG)
@@ -67,8 +65,6 @@ Capstone 3: PowerBI Interactive Dashboard
 My Experience: This is my favourite of the 5 projects! Though throughout the preparation even up till presentation, I had the constant nagging feeling that it is missing something - I've not figured out what it is. Hopefully, someday I would! 
 
 My Audacity: I asked God to 'patent' the ideas in this project; No other will wrangle the data like I did! O-O #Originator
-
-Amazed By: My Mentor! He knew my project was missing something. He always seem to 'prophesy' my hidden thoughts.  
 
 [Blueprint](/images/Capstone3_Blueprint.jpeg)
 
